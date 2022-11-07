@@ -27,7 +27,24 @@ em strong {
 
 }
 
-.Beneficios{
-	background-color:darkred
+.Benefícios{
+	background-color:blue
 	text-align: left;
+	font-size: 25px;
+	padding: 20px;
+}
+
+ul{
+	display: inline-block;
+	vertical-align: top;
+	margin: 3%;
+	list-style: circle;
+	width: 20%;
+	margin-right: 15%;
+
+}
+
+#imagem2{
+	width: 50%;
+
 }
